@@ -55,10 +55,10 @@ export default function Home() {
           <div className={styles.card}> 
             <h2>Picture of me</h2>
             <Image src="/Famzo.jpeg" alt="Picture of me" width={500} height={500} />
-            
+            <a className="button" href="https://github.com/Famzo1/miniportfolio-faheem">View my GIT repository</a>
             
           </div>
-          <a className="button" href="https://github.com/Famzo1/miniportfolio-faheem">View my GIT repository</a>
+          
           
 
         </div>
