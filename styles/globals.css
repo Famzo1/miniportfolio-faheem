@@ -14,3 +14,32 @@ a {
 * {
   box-sizing: border-box;
 }
+a.button {
+  display: inline-block;
+  background: #1e6bd6;
+  border: 1px solid #1e6bd6;
+  border-radius: 18px;
+  padding: 0;
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.95rem;
+  font-family: sans-serif;
+  padding: 0.5rem 1rem;
+  align-items: center;
+}
+button  {
+  display: inline-block;
+  background: #1e6bd6;
+  border: 1px solid #1e6bd6;
+  border-radius: 18px;
+  padding: 0;
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.95rem;
+  font-family: sans-serif;
+  padding: 0.5rem 1rem;
+  align-items: center;
+}
+
