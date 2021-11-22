@@ -58,7 +58,9 @@ export default function Home() {
             
             
           </div>
-         
+          <a className="button" href="https://github.com/Famzo1/miniportfolio-faheem">View my GIT repository</a>
+          
+
         </div>
       </main>
 
